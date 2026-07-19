@@ -1,0 +1,29 @@
+2026-07-15 15:14:02,886 | ERROR | HTTPSConnectionPool(host='jsonplaceholder.typicode.com', port=443): Max retries exceeded with url: /users (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024576EF1D30>: Failed to resolve 'jsonplaceholder.typicode.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-15 15:14:02,902 | ERROR | HTTPSConnectionPool(host='jsonplaceholder.typicode.com', port=443): Max retries exceeded with url: /posts (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024576F54190>: Failed to resolve 'jsonplaceholder.typicode.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-15 15:14:02,911 | ERROR | HTTPSConnectionPool(host='jsonplaceholder.typicode.com', port=443): Max retries exceeded with url: /comments (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x0000024576F54E10>: Failed to resolve 'jsonplaceholder.typicode.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-15 15:14:03,417 | INFO | Report Generated
+2026-07-15 15:18:19,023 | ERROR | HTTPSConnectionPool(host='jsonplaceholder.typicode.com', port=443): Max retries exceeded with url: /users (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000170E6601D30>: Failed to resolve 'jsonplaceholder.typicode.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-15 15:18:19,026 | ERROR | HTTPSConnectionPool(host='jsonplaceholder.typicode.com', port=443): Max retries exceeded with url: /posts (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000170E66642D0>: Failed to resolve 'jsonplaceholder.typicode.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-15 15:18:19,027 | ERROR | HTTPSConnectionPool(host='jsonplaceholder.typicode.com', port=443): Max retries exceeded with url: /comments (Caused by NameResolutionError("<urllib3.connection.HTTPSConnection object at 0x00000170E6664F50>: Failed to resolve 'jsonplaceholder.typicode.com' ([Errno 11001] getaddrinfo failed)"))
+2026-07-15 15:18:19,298 | INFO | Report Generated
+2026-07-17 11:27:14,063 | INFO | Fetched https://jsonplaceholder.typicode.com/users
+2026-07-17 11:27:15,170 | INFO | Saved G:\projects\python code\kavita_python\PROJECTS\RETAIL_DATA_INTEGRATION_PIPELINE\data\users.csv
+2026-07-17 11:27:16,249 | INFO | Fetched https://jsonplaceholder.typicode.com/posts
+2026-07-17 11:27:16,305 | INFO | Saved G:\projects\python code\kavita_python\PROJECTS\RETAIL_DATA_INTEGRATION_PIPELINE\data\posts.csv
+2026-07-17 11:27:16,754 | INFO | Fetched https://jsonplaceholder.typicode.com/comments
+2026-07-17 11:27:16,920 | INFO | Saved G:\projects\python code\kavita_python\PROJECTS\RETAIL_DATA_INTEGRATION_PIPELINE\data\comments.csv
+2026-07-17 11:27:26,953 | INFO | Report Generated
+2026-07-18 12:16:20,227 | INFO | Fetched https://jsonplaceholder.typicode.com/users
+2026-07-18 12:16:20,656 | INFO | Saved G:\projects\python code\kavita_python\PROJECTS\RETAIL_DATA_INTEGRATION_PIPELINE\data\users.csv
+2026-07-18 12:16:20,793 | INFO | Fetched https://jsonplaceholder.typicode.com/posts
+2026-07-18 12:16:20,811 | INFO | Saved G:\projects\python code\kavita_python\PROJECTS\RETAIL_DATA_INTEGRATION_PIPELINE\data\posts.csv
+2026-07-18 12:16:22,228 | INFO | Fetched https://jsonplaceholder.typicode.com/comments
+2026-07-18 12:16:22,302 | INFO | Saved G:\projects\python code\kavita_python\PROJECTS\RETAIL_DATA_INTEGRATION_PIPELINE\data\comments.csv
+2026-07-18 12:16:26,282 | INFO | Report Generated
+2026-07-18 12:19:26,858 | INFO | Fetched https://jsonplaceholder.typicode.com/users
+2026-07-18 12:19:26,893 | INFO | Saved G:\projects\python code\kavita_python\PROJECTS\RETAIL_DATA_INTEGRATION_PIPELINE\data\users.csv
+2026-07-18 12:19:27,008 | INFO | Fetched https://jsonplaceholder.typicode.com/posts
+2026-07-18 12:19:27,021 | INFO | Saved G:\projects\python code\kavita_python\PROJECTS\RETAIL_DATA_INTEGRATION_PIPELINE\data\posts.csv
+2026-07-18 12:19:27,198 | INFO | Fetched https://jsonplaceholder.typicode.com/comments
+2026-07-18 12:19:27,229 | INFO | Saved G:\projects\python code\kavita_python\PROJECTS\RETAIL_DATA_INTEGRATION_PIPELINE\data\comments.csv
+2026-07-18 12:19:27,644 | INFO | Report Generated
